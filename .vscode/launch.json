@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Native Debug",
+      "type": "gdb",
+      "request": "launch",
+      "target": "${workspaceFolder}/${fileBasenameNoExtension}",
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "build active file"
+    }
+  ]
+}
