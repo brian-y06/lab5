@@ -1,0 +1,3 @@
+Work in progress...
+
+Various projects and labs from my C Programming course
